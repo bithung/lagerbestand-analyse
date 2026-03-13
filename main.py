@@ -1,6 +1,6 @@
 import csv
 
-dateiname = r"C:\Users\Hung\Desktop\Lagerbestand-analyse\lagerbestand.csv"
+dateiname = "lagerbestand.csv"
 
 print("=== Lagerbestand Analyse ===\n")
 
